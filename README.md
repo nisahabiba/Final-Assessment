@@ -26,3 +26,6 @@ This app has some features such as:
 * QR scanner (it allows users to enter the specific group)
 * Accordion menu (it shows the group details, milestones, group member, and project's progress)
 * Percentage chart (it shows the project's progress based on checked tasks)
+
+## Screen Navigation
+![diagram](https://user-images.githubusercontent.com/75247365/216215246-2ec991c7-56da-46b4-969f-6c73fb88b210.jpeg)
