@@ -31,5 +31,5 @@ This app has some features such as:
 ![diagram](https://user-images.githubusercontent.com/75247365/216215246-2ec991c7-56da-46b4-969f-6c73fb88b210.jpeg)
 
 ## Sequence Diagram
-![diagram](https://user-images.githubusercontent.com/75247365/216247638-2a152709-b21a-49c4-a83c-929cee93edaa.jpeg)
+![sequence](https://user-images.githubusercontent.com/75247365/216248088-c05b20b4-d376-4904-8d1e-4e15580d17fd.jpeg)
 
