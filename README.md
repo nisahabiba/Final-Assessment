@@ -29,3 +29,7 @@ This app has some features such as:
 
 ## Screen Navigation
 ![diagram](https://user-images.githubusercontent.com/75247365/216215246-2ec991c7-56da-46b4-969f-6c73fb88b210.jpeg)
+
+## Sequence Diagram
+![diagram](https://user-images.githubusercontent.com/75247365/216247638-2a152709-b21a-49c4-a83c-929cee93edaa.jpeg)
+
